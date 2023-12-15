@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/dickens/Desktop/&#x5de5;&#x4f5c;/IBM/PIP/PIP3rd/project/PreloadDemo-main/PreloadDemo/iOSPreloadDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
